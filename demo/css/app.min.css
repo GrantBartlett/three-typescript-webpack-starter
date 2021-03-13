@@ -1,0 +1,2 @@
+@import url(https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap);
+:root{--color-example: #fff}html,body{font-family:"Roboto",sans-serif;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1;width:100%;height:100%;min-height:100vh;font-size:16px;text-align:center;background-color:#4158d0;background-image:linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);color:#fff;color:var(--color-example);margin:0}
