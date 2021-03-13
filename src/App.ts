@@ -31,7 +31,7 @@ export class App
 
         document.body.appendChild(this.renderer.domElement);
 
-        window.addEventListener("resize", this.onWindowResize, false);
+        window.addEventListener("resize", this.onWindowResize.bind(this), false);
 
         this.animate();
     }
