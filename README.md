@@ -1,14 +1,14 @@
-![logo](https://user-images.githubusercontent.com/6104940/107880275-b04f2b80-6ed5-11eb-9852-de05425070cc.png)
+![Logo](https://user-images.githubusercontent.com/6104940/111038514-52a0f700-8421-11eb-824e-5f2d2d125005.png)
 
-# React TypeScript Webpack Starter
+# Three.js TypeScript Webpack Starter
 
-A starter project for using React, TypeScript, SCSS and Webpack, along with Jest for writing tests.
+A starter project for using Three.js, TypeScript, SCSS and Webpack.
 
 ## Features
 - Webpack 5 + HMR
-- TypeScript + React
+- TypeScript + Three.js
 - SCSS + Autoprefixing 
-- Jest
+
 
 ## 🚀 Getting Started
 
@@ -93,22 +93,12 @@ Note: This will compile to a `dist` folder.
 npm run build
 ```
 
-## Tests
-You can create tests in the `src/__tests__` folder. 
-Tests are handled by [Jest](https://jestjs.io/)
-
-```shell
-npm run test
-```
-
-
 ### Build tools
 
-* [React](https://reactjs.org/) - JavaScript library for building user interfaces.
+* [Three.js](https://threejs.org/) - Three.js is a cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser using WebGL.
 * [TypeScript](https://www.typescriptlang.org) - TypeScript is a superset of JavaScript that compiles to clean JavaScript.
 * [Webpack 5](https://webpack.js.org/) - App bundler for JavaScript.
 * [SCSS](https://sass-lang.com/) - Preprocessor for SCSS to CSS.
-* [Jest](https://jestjs.io/) - JavaScript Testing Framework.
 
 
 ### 📝License
