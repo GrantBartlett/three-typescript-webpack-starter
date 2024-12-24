@@ -10,6 +10,11 @@ A starter project for using Three.js, TypeScript, SCSS and Webpack.
 - SCSS + Autoprefixing 
 
 
+## Hey 👋
+Hey, I'm Grant, A Freelance Software Developer. I help agencies, startups, and individuals stand out by creating exceptional websites, mobile apps, and digital experiences. Based in Surrey, I work with clients in London and internationally, providing flexible, tailored solutions for every project.
+
+If you're looking for a mobile app, a responsive website, or a unique digital solution, I'm here to deliver standout results crafted to your needs.  Say hi 👋  [Get in touch](https://grant-bartlett.com/)
+
 ## 🚀 Getting Started
 
 Get up and running with these simple steps:
